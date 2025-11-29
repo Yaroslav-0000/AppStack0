@@ -8,7 +8,7 @@
         "description": "Быстрый и безопасный мессенджер",
         "version": "10.0.0",
         "size": "45 MB",
-        "download_url": "https://example.com/telegram.apk",
+        "download_url": "https://yaroslav-0000.github.io/AppStack0/app-debug.apk",
         "icon_url": "https://via.placeholder.com/100/007ACC/FFFFFF?text=TG",
         "category": "Социальные сети",
         "rating": 4.5,
@@ -29,4 +29,5 @@
     ]
   },
   "token": "wYVpi3N7hTmnKFRDcxEysqJfAuL8zt0rM"
+
 }
