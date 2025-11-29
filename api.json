@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "data": {
+    "apps": [
+      {
+        "id": 1,
+        "name": "Telegram",
+        "description": "Быстрый и безопасный мессенджер",
+        "version": "10.0.0",
+        "size": "45 MB",
+        "download_url": "https://example.com/telegram.apk",
+        "icon_url": "https://via.placeholder.com/100/007ACC/FFFFFF?text=TG",
+        "category": "Социальные сети",
+        "rating": 4.5,
+        "downloads": 1000000
+      },
+      {
+        "id": 2,
+        "name": "Spotify",
+        "description": "Стриминговый сервис музыки",
+        "version": "8.8.0",
+        "size": "85 MB", 
+        "download_url": "https://example.com/spotify.apk",
+        "icon_url": "https://via.placeholder.com/100/1DB954/FFFFFF?text=SP",
+        "category": "Музыка",
+        "rating": 4.3,
+        "downloads": 500000
+      }
+    ]
+  },
+  "token": "wYVpi3N7hTmnKFRDcxEysqJfAuL8zt0rM"
+}
