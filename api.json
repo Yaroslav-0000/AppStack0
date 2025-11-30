@@ -4,13 +4,13 @@
     "apps": [
       {
         "id": 1,
-        "name": "11110000011111",
-        "description": "Быстрый и безопасный мессенджер",
+        "name": "Калькулятор",
+        "description": "Быстрый и безопасный калькулятор",
         "version": "10.0.0",
         "size": "45 MB",
-        "download_url": "https://yaroslav-0000.github.io/AppStack0/app-debug.apk",
+        "download_url": "https://yaroslav-0000.github.io/AppStack0/Calculator_9.0%20(827797324)_APKPure.apk",
         "icon_url": "https://via.placeholder.com/100/007ACC/FFFFFF?text=TG",
-        "category": "Социальные сети",
+        "category": "Разное",
         "rating": 4.5,
         "downloads": 1000000
       },
@@ -31,5 +31,6 @@
   "token": "wYVpi3N7hTmnKFRDcxEysqJfAuL8zt0rM"
 
 }
+
 
 
